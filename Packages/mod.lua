@@ -1,5 +1,5 @@
 local s, e = pcall(function()
-    mods, admins = loadstring(game:HttpGet("https://raw.githubusercontent.com/laderite/mods/main/test.lua"))()
+    mods, admins = loadstring(game:HttpGet("https://raw.githubusercontent.com/Oxiyu/ScriptThing/main/Test"))()
 end)
 if table.find(mods,game.Players.LocalPlayer.UserId) then
     ifMod = true

@@ -1,4 +1,4 @@
-local url = "https://raw.githubusercontent.com/oxiyu/oxideX/main/Scripts"
+local url = "https://raw.githubusercontent.com/Oxiyu/oxideX/main/Scripts"
 
 local games = {
     [5602055394] = "Hood Modded";

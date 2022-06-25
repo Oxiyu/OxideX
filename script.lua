@@ -4,6 +4,7 @@ local games = {
     [5602055394] = "Hood Modded";
     [4483381587] = "Classic Baseplate";
     [5872075530] = "Anarchy";
+    [1240123653] = "Zombie Attack";
 }
 
 for i,v in next, games do
